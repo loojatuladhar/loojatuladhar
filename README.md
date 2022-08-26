@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @loojatuladhar
 - 👀 I’m interested in developing web applications. 
-- 🌱 I’m currently learning JavaScript and React. 
 - 📫 Email me at looja1999@gmail.com
 
 <!---
